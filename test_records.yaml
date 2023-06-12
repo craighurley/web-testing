@@ -1,0 +1,19 @@
+# Records
+test_records:
+- number: 1
+  host_record: example.com
+  record:
+  - a.iana-servers.net
+  - b.iana-servers.net
+  type: NS
+- number: 2
+  host_record: example.com
+  record:
+  - 93.184.216.34
+  type: A
+- number: 3
+  host_record: example.com
+  record:
+  - wgyf8z8cgvm2qmxpnbnldrcltvk4xqfn
+  - v=spf1 -all
+  type: TXT

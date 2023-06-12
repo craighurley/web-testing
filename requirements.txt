@@ -1,0 +1,8 @@
+autopep8
+dnspython
+parametrize_from_file
+pycodestyle
+pylint
+pytest
+requests
+rope
